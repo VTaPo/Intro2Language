@@ -5,7 +5,7 @@
 - 20120547 - VÕ THÀNH PHONG
 - 20120521 - TRẦN THỊ PHƯƠNG LINH
 - 20120128 - NGUYỄN THỊ CẨM LAI
-- 20120192 - TRẦN DUY THIÊN
+- 20120192 - LÂM DUY THIÊN
 
 **CHỦ ĐỀ: NAMED ENTITY RECOGNITION**
 - Nhóm thực hiện phân tích thống kê trên bộ dữ liệu chính là Covid19-NER for Vietnamese do VinAI công bố năm 2021 và trên bộ dữ liệu tham khảo là CoNLL2003.
